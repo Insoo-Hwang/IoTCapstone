@@ -52,5 +52,9 @@
 |![KakaoTalk_20230607_135751463_02](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/c2215ddc-e895-4d47-a3b3-e29116c96929)|![KakaoTalk_20230607_150914397](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/adddc1b8-a0f7-4175-a603-88a3ae89cbe9)| - |
 
 
+## 상품 추천 알고리즘
+![알고리즘](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/4cbbdb4f-9378-4f56-ad6d-c0c4a8597ed4)
+
+
 ## 기대 효과
   - 소비자 입장에서는 자신의 위치에 따라 상품을 추천받을 수 있고 관리자 입장에서는 상품의 정보를 직접 바꾸지 않고 Android APP을 통해 손쉽게 바꿀 수 있음.

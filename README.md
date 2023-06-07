@@ -49,7 +49,7 @@
 
 | 아두이노 LCD | 라즈베리파이 카메라 화면 | - |
 |:-------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|
-|![Uploading KakaoTalk_20230607_135751463_02.jpg…]()|![KakaoTalk_20230607_150914397](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/adddc1b8-a0f7-4175-a603-88a3ae89cbe9)| - |
+|![KakaoTalk_20230607_135751463_02](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/c2215ddc-e895-4d47-a3b3-e29116c96929)|![KakaoTalk_20230607_150914397](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/adddc1b8-a0f7-4175-a603-88a3ae89cbe9)| - |
 
 
 ## 기대 효과

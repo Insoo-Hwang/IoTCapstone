@@ -91,7 +91,6 @@ class MainActivity : AppCompatActivity() {
             if(result.contents != null){
                 Thread {
                     var temp = result.contents
-                    temp+='R'
                     sendS3(temp)
                 }.start()
                 Thread {

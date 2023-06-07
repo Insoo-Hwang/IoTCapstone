@@ -14,7 +14,6 @@ import com.amazonaws.services.s3.model.GetObjectRequest
 import com.amazonaws.services.s3.model.ObjectMetadata
 import com.example.iotprojectreal.AuthActivity
 import com.example.iotprojectreal.databinding.ActivityMainBinding
-import com.example.iotprojectreal.ui.AddActivity
 import com.example.iotprojectreal.ui.ListActivity
 import com.example.iotprojectreal.ui.NewMemberActivity
 import com.example.iotprojectreal.ui.ProductActivity

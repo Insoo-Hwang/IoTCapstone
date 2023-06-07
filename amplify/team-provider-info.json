@@ -1,0 +1,74 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-iotprojectreal-dev-155643-authRole",
+      "UnauthRoleArn": "arn:aws:iam::903652618632:role/amplify-iotprojectreal-dev-155643-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::903652618632:role/amplify-iotprojectreal-dev-155643-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-iotprojectreal-dev-155643-deployment",
+      "UnauthRoleName": "amplify-iotprojectreal-dev-155643-unauthRole",
+      "StackName": "amplify-iotprojectreal-dev-155643",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:903652618632:stack/amplify-iotprojectreal-dev-155643/af923e50-db5a-11ed-9b67-067d1f9a94f6",
+      "AmplifyAppId": "d1zz2p93gw8vtr"
+    },
+    "categories": {
+      "auth": {
+        "iotprojectrealac063671": {}
+      }
+    }
+  },
+  "amplifytes": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-iotprojectreal-amplifytes-173031-authRole",
+      "UnauthRoleArn": "arn:aws:iam::903652618632:role/amplify-iotprojectreal-amplifytes-173031-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::903652618632:role/amplify-iotprojectreal-amplifytes-173031-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-iotprojectreal-amplifytes-173031-deployment",
+      "UnauthRoleName": "amplify-iotprojectreal-amplifytes-173031-unauthRole",
+      "StackName": "amplify-iotprojectreal-amplifytes-173031",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:903652618632:stack/amplify-iotprojectreal-amplifytes-173031/ca5584b0-db67-11ed-b08d-0aa344a18aa0",
+      "AmplifyAppId": "d1e08e0uo59arw"
+    },
+    "categories": {
+      "auth": {
+        "iotprojectrealac063671": {}
+      }
+    }
+  },
+  "amplifyy": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-iotprojectreal-amplifyy-190314-authRole",
+      "UnauthRoleArn": "arn:aws:iam::903652618632:role/amplify-iotprojectreal-amplifyy-190314-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::903652618632:role/amplify-iotprojectreal-amplifyy-190314-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-iotprojectreal-amplifyy-190314-deployment",
+      "UnauthRoleName": "amplify-iotprojectreal-amplifyy-190314-unauthRole",
+      "StackName": "amplify-iotprojectreal-amplifyy-190314",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:903652618632:stack/amplify-iotprojectreal-amplifyy-190314/bdc29a50-db74-11ed-9be3-0ac48a628500",
+      "AmplifyAppId": "d2ziqp6j4iiuog"
+    },
+    "categories": {
+      "auth": {
+        "iotprojectrealac063671": {}
+      }
+    }
+  },
+  "ampll": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-iotprojectreal-ampll-195732-authRole",
+      "UnauthRoleArn": "arn:aws:iam::903652618632:role/amplify-iotprojectreal-ampll-195732-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::903652618632:role/amplify-iotprojectreal-ampll-195732-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-iotprojectreal-ampll-195732-deployment",
+      "UnauthRoleName": "amplify-iotprojectreal-ampll-195732-unauthRole",
+      "StackName": "amplify-iotprojectreal-ampll-195732",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:903652618632:stack/amplify-iotprojectreal-ampll-195732/54040290-db7c-11ed-b08d-0aa344a18aa0",
+      "AmplifyAppId": "d3j7raekcug1hm"
+    },
+    "categories": {
+      "auth": {
+        "iotprojectrealcb49ac39": {}
+      }
+    }
+  }
+}

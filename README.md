@@ -37,7 +37,7 @@
 
 | 로그인&회원가입 | 사용자 QR코드 | 사용자 정보 입력 |
 |:-------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|
-|![1](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/6dc3c975-d394-4721-ba5a-4456c5fdaf10)|![3](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/c06c27d3-16b2-4910-91f0-0814c8889a37)|![Screenshot_20230607_144845_IoT project real](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/cdea99ec-33fa-4add-acba-b615761d9f8a)|
+|![1](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/9de8eb6c-36b2-44b0-9931-1eec11a35b5f)|![2](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/432063d0-10f1-462d-bac3-4938337b1e7b)|![Screenshot_20230607_144845_IoT project real](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/cdea99ec-33fa-4add-acba-b615761d9f8a)|
 
 | 임시 구매 정보 입력 | 상품 위치 정보 입력&검색 | - |
 |:-------------------------------------:|:-------------------------------------------------:|:-----------------------------------------------:|
@@ -49,7 +49,7 @@
 
 | 아두이노 LCD | 라즈베리파이 카메라 화면 | - |
 |:-------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------:|
-|![KakaoTalk_20230607_135751463_02](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/c2215ddc-e895-4d47-a3b3-e29116c96929)|![KakaoTalk_20230607_150914397](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/adddc1b8-a0f7-4175-a603-88a3ae89cbe9)| - |
+|![1](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/b07e840e-9e05-43bd-82cd-c8a490d669b2)|![KakaoTalk_20230607_150914397](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/adddc1b8-a0f7-4175-a603-88a3ae89cbe9)| - |
 
 
 ## 상품 추천 알고리즘

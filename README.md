@@ -58,8 +58,7 @@
 
 
 ## 상품 추천 알고리즘
-![알고리즘](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/4cbbdb4f-9378-4f56-ad6d-c0c4a8597ed4)
-![image](https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/f92e2581-684f-4277-a8cd-e4ec41b3505d)
+<img src="https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/4cbbdb4f-9378-4f56-ad6d-c0c4a8597ed4" width="600px"></img><img src="https://github.com/Insoo-Hwang/IoTCapstone/assets/70841847/f92e2581-684f-4277-a8cd-e4ec41b3505d" width="300px"></img>
 * 선호하는 상품에 더 큰 관심을 가지는 '디깅 소비'를 활용하여 상품과 소비자의 취향 정보(앱을 통해 입력한 부분 40% + 소비 패턴 60%)를 6개의 특징(매운, 짠, 단, 쓴, 신, 고소한)으로 나누어 수치화하고 점수를 부여하여 높은 점수에 있는 상품을 추천
 
 

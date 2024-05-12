@@ -108,7 +108,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun sendS3(content : String){
-        val credentials = BasicAWSCredentials("AKIA5EZPEWGEHH4E5PH3", "u6u1hvMNXkW+t1LQPBPPM6RsSbiFEdn8hhp681gg")
+        val credentials = BasicAWSCredentials("", "")
         val s3client = AmazonS3Client(credentials)
         val bucketName = "iotsend"
         val objectKey = "app/text"
@@ -120,7 +120,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun getS3Object(): String? {
-        val credentials = BasicAWSCredentials("AKIA5EZPEWGEHH4E5PH3", "u6u1hvMNXkW+t1LQPBPPM6RsSbiFEdn8hhp681gg")
+        val credentials = BasicAWSCredentials("", "")
         val s3client = AmazonS3Client(credentials)
         val s3Object = s3client.getObject(GetObjectRequest("iotsend", "app/text"))
         val inputStream = s3Object.objectContent
